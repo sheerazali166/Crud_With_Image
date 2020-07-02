@@ -1,0 +1,9 @@
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\bin\Debug\Crud_With_Image.exe.config
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\bin\Debug\Crud_With_Image.exe
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\bin\Debug\Crud_With_Image.pdb
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.csprojAssemblyReference.cache
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.Form1.resources
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.Properties.Resources.resources
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.csproj.GenerateResource.cache
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.exe
+E:\Web_Development\C#\Crud_With_Image\Crud_With_Image\obj\Debug\Crud_With_Image.pdb
